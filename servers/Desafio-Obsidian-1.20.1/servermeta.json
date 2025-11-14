@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/ObsidianDistro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.2",
+    "name": "Desafío Obsidian 2",
+    "description": "Desafio Obsidian 2nda edicion",
+    "icon": "https://files.catbox.moe/dnbohq.png",
+    "address": "eventosobsidian.exaroton.me",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}

@@ -1,0 +1,233 @@
+{
+    "id": "3cbfb627-40b2-44a6-9385-b8b83d20e5d9",
+    "title": "Personajes",
+    "forms": [
+        {
+            "pose_overlay": {
+                "static": false
+            },
+            "hitboxHeight": 1.8,
+            "color": -1,
+            "hp": 20.0,
+            "bodyParts": {},
+            "shaderShadow": true,
+            "shape_keys": {
+                "keys": {}
+            },
+            "transform": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "step_height": 0.5,
+            "stateTriggers": {
+                "list": []
+            },
+            "model": "emoticons/steve_simple",
+            "id": "bbs:model",
+            "hitboxWidth": 0.5,
+            "visible": true,
+            "hitboxEyeHeight": 0.9,
+            "pose": {
+                "static": false,
+                "pose": {}
+            },
+            "texture": "assets:models/player/steve/52333cc23d016897.png",
+            "hitboxSneakMultiplier": 0.9,
+            "animatable": true,
+            "lighting": 1.0,
+            "hitbox": false,
+            "movement_speed": 0.1,
+            "uiScale": 1.0,
+            "anchor": {
+                "actor": -1,
+                "attachment": "",
+                "scale": false,
+                "translate": false
+            },
+            "keybind": 0,
+            "name": "",
+            "transform_overlay": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "actions": {}
+        },
+        {
+            "pose_overlay": {
+                "static": false
+            },
+            "hitboxHeight": 1.8,
+            "color": -1,
+            "hp": 20.0,
+            "bodyParts": {},
+            "shaderShadow": true,
+            "shape_keys": {
+                "keys": {}
+            },
+            "transform": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "step_height": 0.5,
+            "stateTriggers": {
+                "list": [
+                    {
+                        "hotkey": 324,
+                        "action": "emote_electro_shuffle",
+                        "id": "90000178-0c23-4d38-a382-25b9382e7767",
+                        "states": {}
+                    },
+                    {
+                        "hotkey": 325,
+                        "action": "emote_tidy",
+                        "id": "cce253bf-d68d-41cd-a7bf-4a18be71c75b",
+                        "states": {}
+                    },
+                    {
+                        "hotkey": 326,
+                        "action": "emote_shimmer",
+                        "id": "d05671bb-220a-4e50-a69e-f47e39004d77",
+                        "states": {}
+                    }
+                ]
+            },
+            "model": "emoticons/steve_simple",
+            "id": "bbs:model",
+            "hitboxWidth": 0.5,
+            "visible": true,
+            "hitboxEyeHeight": 0.9,
+            "pose": {
+                "static": false
+            },
+            "texture": [
+                {
+                    "path": "assets:models/player/steve/maclautyt-presentadorDos.png"
+                }
+            ],
+            "hitboxSneakMultiplier": 0.9,
+            "animatable": true,
+            "lighting": 1.0,
+            "hitbox": false,
+            "movement_speed": 0.1,
+            "uiScale": 1.0,
+            "anchor": {
+                "actor": -1,
+                "attachment": "",
+                "scale": false,
+                "translate": false
+            },
+            "keybind": 333,
+            "name": "",
+            "transform_overlay": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "actions": {
+                "shoot": "emote_hype"
+            }
+        },
+        {
+            "pose_overlay": {
+                "static": false
+            },
+            "hitboxHeight": 1.5,
+            "color": -1,
+            "hp": 90.0,
+            "bodyParts": {},
+            "shaderShadow": true,
+            "shape_keys": {
+                "keys": {}
+            },
+            "transform": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "step_height": 0.5,
+            "stateTriggers": {
+                "list": [
+                    {
+                        "hotkey": 324,
+                        "action": "emote_disco_fever",
+                        "id": "90000178-0c23-4d38-a382-25b9382e7767",
+                        "states": {}
+                    },
+                    {
+                        "hotkey": 325,
+                        "action": "emote_tada",
+                        "id": "28c35164-9150-47e3-8f5e-93e50ac67e6f",
+                        "states": {}
+                    },
+                    {
+                        "hotkey": 326,
+                        "action": "emote_orange_justice",
+                        "id": "4a82ac19-28d4-4202-a830-aa6b900df9ed",
+                        "states": {}
+                    },
+                    {
+                        "hotkey": 320,
+                        "action": "emote_am_stuff",
+                        "id": "7ac94025-cefb-422c-a71b-e3c920d16757",
+                        "states": {}
+                    }
+                ]
+            },
+            "model": "emoticons/steve_simple",
+            "id": "bbs:model",
+            "hitboxWidth": 1.0,
+            "visible": true,
+            "hitboxEyeHeight": 1.0,
+            "pose": {
+                "static": false,
+                "pose": {
+                    "anchor": {
+                        "r2": [0.0, 0.0, 0.0],
+                        "r": [0.0, 0.0, 0.0],
+                        "s": [1.5, 1.5, 1.5],
+                        "t": [0.0, 0.0, 0.375],
+                        "fix": 0.0,
+                        "color": -1,
+                        "lighting": 0.0
+                    }
+                }
+            },
+            "texture": [
+                {
+                    "path": "assets:models/player/steve/maclautyt-presentadorDos.png"
+                }
+            ],
+            "hitboxSneakMultiplier": 0.95,
+            "animatable": true,
+            "lighting": 1.0,
+            "hitbox": false,
+            "movement_speed": 0.15,
+            "uiScale": 1.0,
+            "anchor": {
+                "actor": -1,
+                "attachment": "",
+                "scale": false,
+                "translate": false
+            },
+            "keybind": 334,
+            "name": "Presentador",
+            "transform_overlay": {
+                "r2": [0.0, 0.0, 0.0],
+                "r": [0.0, 0.0, 0.0],
+                "s": [1.0, 1.0, 1.0],
+                "t": [0.0, 0.0, 0.0]
+            },
+            "actions": {
+                "shoot": "emote_hype"
+            }
+        }
+    ]
+}

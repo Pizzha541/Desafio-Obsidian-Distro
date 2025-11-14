@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/ObsidianDistro/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://pastebin.com/raw/qaQF47nH",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    }
+  }
+}
