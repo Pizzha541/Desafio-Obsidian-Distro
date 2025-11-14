@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "buildDate": "2025-11-14T00:00:00Z",
   "rss": "https://pastebin.com/raw/qaQF47nH",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
