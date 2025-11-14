@@ -1,9 +1,8 @@
 {
   "version": "1.0.1",
-  "buildDate": "2025-11-14T00:00:00Z",
-  "rss": "https://pastebin.com/raw/qaQF47nH",
+  "rss": "https://pastebin.com/raw/qaQF47nH?t=2025-11-14-1",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "1086936373057040395",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
