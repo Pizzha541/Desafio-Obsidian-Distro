@@ -483,6 +483,26 @@
           }
         },
         {
+          "id": "generated.forgemod:connector:1.0.0-beta.45+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4680145,
+            "url": "https://raw.githubusercontent.com/Pizzha541/Desafio-Obsidian-Distro/main/servers/Desafio-Obsidian-1.20.1/forgemods/required/Connector-1.0.0-beta.45+1.20.1.jar",
+            "MD5": "7d717ccc5a1dbcf50045f81f164e2b1f"
+          }
+        },
+        {
+          "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
+          "name": "Connector Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182464,
+            "url": "https://raw.githubusercontent.com/Pizzha541/Desafio-Obsidian-Distro/main/servers/Desafio-Obsidian-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
+            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
+          }
+        },
+        {
           "id": "team.creative:creativecore:2.12.32@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -520,6 +540,16 @@
             "size": 1320675,
             "url": "https://raw.githubusercontent.com/Pizzha541/Desafio-Obsidian-Distro/main/servers/Desafio-Obsidian-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3065813,
+            "url": "https://raw.githubusercontent.com/Pizzha541/Desafio-Obsidian-Distro/main/servers/Desafio-Obsidian-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "MD5": "2859d401e221e94acf0b48c5f7efa50b"
           }
         },
         {
