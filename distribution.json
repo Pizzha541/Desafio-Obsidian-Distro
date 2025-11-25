@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "https://pastebin.com/raw/qaQF47nH?t=2025-11-13-1",
   "discord": {
     "clientId": "1442747730710499371",
@@ -16,9 +16,9 @@
       "address": "eventosobsidian.exaroton.me",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1442747730710499371",
+        "largeImageText": "Obsidian Studios Client",
+        "largeImageKey": "captura_de_pantalla_2024-11-18_223906_-_copia"
       },
       "mainServer": false,
       "autoconnect": false,
