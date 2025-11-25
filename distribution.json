@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "rss": "https://pastebin.com/raw/qaQF47nH?t=2025-11-13-1",
   "discord": {
     "clientId": "1442747730710499371",
@@ -12,7 +12,7 @@
       "name": "Desafío Obsidian 2",
       "description": "Desafio Obsidian 2nda edicion",
       "icon": "https://files.catbox.moe/dnbohq.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "eventosobsidian.exaroton.me",
       "minecraftVersion": "1.20.1",
       "discord": {
