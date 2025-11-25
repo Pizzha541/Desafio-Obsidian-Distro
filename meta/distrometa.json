@@ -3,9 +3,9 @@
   "meta": {
     "rss": "https://pastebin.com/raw/qaQF47nH",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "1442747730710499371",
+      "largeImageText": "Obsidian Studios Client",
+      "largeImageKey": "captura_de_pantalla_2024-11-18_223906_-_copia"
     }
   }
 }
